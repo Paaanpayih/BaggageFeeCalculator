@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Excess Baggage Fee</string>
+    <string name="action_share">Share</string>
+    <string name="action_about">About</string>
+
+    <string name="first_fragment_label">Baggage Fee Calculator</string>
+    <string name="second_fragment_label">About Developer</string>
+
+    <string name="ticket_class_label">Ticket Class:</string>
+    <string name="weight_hint">Baggage Weight (kg)</string>
+    <string name="rate_hint">Excess Baggage Rate per kg (RM)</string>
+    <string name="class_economy">Economy Class (20 kg)</string>
+    <string name="class_business">Business Class (40 kg)</string>
+    <string name="calculate_btn">Calculate Fee</string>
+    <string name="clear_btn">Clear</string>
+
+    <string name="result_excess_weight_default">Excess Weight: 0.00 kg</string>
+    <string name="result_charge_default">Excess Charge: RM 0.00</string>
+    <string name="result_total_default">Total Payable (incl 8% tax): RM 0.00</string>
+
+    <string name="result_excess_weight">Excess Weight: %1$.2f kg</string>
+    <string name="result_charge">Excess Charge: RM %1$.2f</string>
+    <string name="result_total_prefix">Total Payable (incl 8% tax): RM </string>
+
+    <string name="error_empty_fields">Please enter both weight and rate.</string>
+    <string name="error_invalid_input">Invalid input values.</string>
+
+    <string name="about_title">Developer Details</string>
+    <string name="about_name">Name: Muhammad Farhan Faris Bin Adnan</string>
+    <string name="about_student_no">Student No: 2025483456</string>
+    <string name="about_group">Group: CS2515B</string>
+    <string name="about_program">Programme Code: CS251</string>
+    <string name="about_copyright">© 2026 Excess Baggage App. All Rights Reserved.</string>
+    <string name="about_github">https://github.com/Paanpayih/Baggage%20Fee%20Calculator/</string>
+    <string name="about_instructions">Estimate your excess baggage fee by entering your baggage weight and the airline\'s excess rate per kg.</string>
+</resources>
